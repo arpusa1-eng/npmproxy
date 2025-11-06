@@ -16,7 +16,7 @@ It intercepts and rewrites requests so you can browse external sites through you
 
 ## ⚙️ Installation
 ```bash
-git clone <your-repo-url>
+git clone htttps://github.com/arpusa1-eng/npmproxy.git
 cd complex-local-browser
 npm install
 npm start
